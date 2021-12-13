@@ -1,0 +1,10 @@
+50, 51, 52, 13
+Vincent van Gogh, Michelangelo, Pablo Picasso, Leonardo da Vinci
+Epicentre, Focus, Hypocentre, Fault Line
+Constantinople, Rome, Athens, Venice
+Krona, Franc, Euro, Rial
+Denmark, Sweden, Finland, Norway
+Radiation, Earthquake Magnitude, Humidity, Carbon Dioxide
+Scientology, Islam, Buddhism, Eastern Orthodox Christianity
+Lesotho, Botswana, Namibia, Zimbabwe
+Indonesia, Malaysia, Papua New Guinea, Solomon Islands

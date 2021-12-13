@@ -1,0 +1,52 @@
+# Option 2
+
+---
+
+College Graduation:
+Fund value: €40,000
+
+~9.1% return
+
+---
+
+Salary: €37,000
+
+---
+
+End 23:
+
+Savings: €55,600
+Fund: €60,400
+
+---
+
+End 24:
+
+Savings: €79,600
+Fund: €86,848
+
+---
+
+End 25:
+
+Savings: €109,048
+Fund: €119,469
+
+---
+
+End 26:
+Savings: €157,000
+Fund: €172,205.28
+
+---
+
+End 27:
+Savings: €215,000
+Fund: €236,069.91
+
+---
+
+End 28:
+Savings: €285,260
+Fund: €313,598
+
