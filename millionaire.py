@@ -68,7 +68,7 @@ seen = []
 fail = 0
 
 while i < len(cash):
-    print("For ??{cash}".format(cash = cash[i]) + " " * 10)
+    print("For €{cash}".format(cash = cash[i]) + " " * 10)
 
     if cash_int[i] <= 500:
 
@@ -118,17 +118,17 @@ while i < len(cash):
         answer = dict[s.upper()]
 
     if answer == maps[choice.strip()][0] and i == len(cash) - 1:
-        print("Incredible - you've won! You're going home with ??1,000,000!")
+        print("Incredible - you've won! You're going home with €1,000,000!")
 
     elif answer == maps[choice.strip()][0] and i != len(cash) - 1:
-        print("Correct! You're on ??{cash}".format(cash = cash[i]))
+        print("Correct! You're on €{cash}".format(cash = cash[i]))
 
     elif i == 0:
         print("Incorrect!\nBetter luck next time, you're going home empty handed.")
         i = len(cash)
 
     else:
-        print("Incorrect!\nYou're going home with ??{cash}.".format(cash = cash[i - 1]))
+        print("Incorrect!\nYou're going home with €{cash}.".format(cash = cash[i - 1]))
         i = len(cash)
 
     time.sleep(1.8)
